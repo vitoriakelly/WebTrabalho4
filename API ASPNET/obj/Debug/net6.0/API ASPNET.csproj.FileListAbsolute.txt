@@ -1,0 +1,68 @@
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\API ASPNET.csproj.AssemblyReference.cache
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\API ASPNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\API ASPNET.AssemblyInfoInputs.cache
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\API ASPNET.AssemblyInfo.cs
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\API ASPNET.csproj.CoreCompileInputs.cache
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\API ASPNET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\API ASPNET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\API ASPNET.sourcelink.json
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\appsettings.json
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\API ASPNET.exe
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\API ASPNET.deps.json
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\API ASPNET.runtimeconfig.json
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\API ASPNET.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\API ASPNET.pdb
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\staticwebassets\msbuild.API ASPNET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\staticwebassets\msbuild.build.API ASPNET.props
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API ASPNET.props
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API ASPNET.props
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\scopedcss\bundle\API ASPNET.styles.css
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\API ASPNET.csproj.Up2Date
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\API ASPNET.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\refint\API ASPNET.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\API ASPNET.pdb
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\API ASPNET.genruntimeconfig.cache
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\obj\Debug\net6.0\ref\API ASPNET.dll
+C:\Users\Weslley\source\repos\API ASPNET\API ASPNET\bin\Debug\net6.0\BCrypt.Net-Next.dll
