@@ -33,6 +33,16 @@ Backend: API ASP.NET Core que gerencia as tarefas e se comunica com o banco de d
 
 ## Imagens 
 
-![Tela da Aplicação]()
+![Tela de Login](images/login.jpg)
+![Login](images/login-login.jpg)
+![Cadastro](images/registro.jpg)
+![list-tarefas](images/list-tarefas.jpg)
+![add-tarefas](images/add-tarefas.jpg)
+![bd_tarefan](images/bd_tarefa.jpg)
+![estrutura-de-pastas](images/estrutura-de-pastas.jpg)
+![estrutura-de-pastas](images/estrutura-de-pastas.jpg)
+![rotas-demostração](images/rotas-demostração.jpg)
+![rotas-demostração](images/rotas-demostração.jpg)
+
 
 
